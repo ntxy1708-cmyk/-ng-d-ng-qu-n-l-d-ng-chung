@@ -1,0 +1,6 @@
+{
+  "name": "Ứng dụng quản lý dùng chung - Trung tâm Phục vụ hành chính công Phường Cầu Kiệu - TP.Hồ Chí Minh",
+  "description": "Ứng dụng quản lý dùng chung - Trung tâm Phục vụ hành chính công Phường Cầu Kiệu - TP.Hồ Chí Minh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
